@@ -9,8 +9,7 @@ const DetailPage = async ({ params }) => {
 
     console.log(slug, "id");
 
-    const res = await fetch(
-        "https://api.abcz.workers.dev/api/fitlog"
+    const res = await fetch( "https://api.abcz.workers.dev/api/fitlog"
     );
 
     const librarydata = await res.json();
