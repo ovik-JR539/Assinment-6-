@@ -7,7 +7,7 @@ const FooterBar = () => {
     return (
         <footer className="bg-gray-700 text-black p-5">
 
-            <div className="container mx-auto flex items-center justify-between">
+            <div className="container mx-auto flex items-center justify-between  ">
 
                 {/* Logo - Left */}
                 <div className="flex items-center gap-4">
