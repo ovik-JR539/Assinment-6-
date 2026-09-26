@@ -5,7 +5,7 @@ import logo from "@/app/assets/logo.png";
 
 const FooterBar = () => {
     return (
-        <footer className="bg-gray-700 text-black p-  mt-[30px]" >
+        <footer className="bg-gray-700 text-black p-  mt-[100px]" >
 
             <div className="container mx-auto flex items-center justify-between  ">
 
