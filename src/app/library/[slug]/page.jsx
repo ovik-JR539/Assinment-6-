@@ -24,7 +24,7 @@ const DetailPage = async ({ params }) => {
 
 
     return (
-        <div className='container mx- auto mx-120 my-20' >
+        <div className='container mx- auto mx-40 my-20' >
             <div className="card lg:card-side bg-base-100 shadow-sm rounded-[30px]" >
 
                 <figure className='rounded-[20px]'>
